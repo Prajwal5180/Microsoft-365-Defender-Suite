@@ -40,7 +40,7 @@ In this lab, you will complete the following tasks:
 
 1. Select Discovered apps to see all the apps present in the portal.
 
-    ![Picture 1](../Media/DiscoverApps 15.png)
+   ![Picture 1](../Media/DiscoverApps 15.png)
 
 ## Review
 In this lab, you will complete the following tasks:
