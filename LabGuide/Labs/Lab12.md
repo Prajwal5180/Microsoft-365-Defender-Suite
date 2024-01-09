@@ -70,5 +70,5 @@ Sanctioned and unsanctioned are tags that you can apply to the cloud apps that a
 
 ## Review
 In this lab, you will complete the following tasks:
-- Tag apps as sanctioned or unsanctioned
-- Use the investigation tools
+- Tagged apps as sanctioned or unsanctioned
+- Used the investigation tools
