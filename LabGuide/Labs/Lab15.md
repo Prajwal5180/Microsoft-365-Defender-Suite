@@ -57,5 +57,5 @@ Scheduling a report by email for Identity reports within Microsoft Defender XDR 
 
 ## Review
 In this lab, you will complete the following tasks:
-- Access Defender for Identity reports
-- Schedule a report by email
+- Accessed Defender for Identity reports
+- Scheduled a report by email
