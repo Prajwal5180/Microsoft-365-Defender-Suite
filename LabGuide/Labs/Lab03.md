@@ -124,6 +124,6 @@ Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security f
 
 ## Review
 In this lab, you will complete the following tasks:
-- Configure Anti-Spam Policy
-- Configure Anti-malware Policy
-- Configure Anti-phishing Policy
+- Configured Anti-Spam Policy
+- Configured Anti-malware Policy
+- Configured Anti-phishing Policy
