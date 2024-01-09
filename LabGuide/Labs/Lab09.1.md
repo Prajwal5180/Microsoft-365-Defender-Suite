@@ -8,13 +8,13 @@ In this lab, participants will delve into the process of discovering apps within
 
 In this lab, you will complete the following tasks:
 
-- Exercise 1: Create a snapshot report to Discovered Apps
+- Exercise 1: Create a snapshot report to Discover Apps
 
 ## Architecture Diagram
 
    ![Picture 1](../Media/lab9-arch.png)
 
-### Exercise 1: Create a snapshot report to Discovered Apps
+### Exercise 1: Create a snapshot report to Discover Apps
 
 1. Collect log files from your firewall and proxy, through which users in your organization access the Internet. Make sure to gather logs during times of peak traffic that are representative of all user activity in your organization.
 1. In the Microsoft Defender Portal, under Cloud Apps, select **Cloud discovery** and click on **Create a new report**.
@@ -45,5 +45,5 @@ In this lab, you will complete the following tasks:
 ## Review
 In this lab, you will complete the following tasks:
 
-- Created a snapshot report to Discovered Apps
+- Created a snapshot report to Discover Apps
 
