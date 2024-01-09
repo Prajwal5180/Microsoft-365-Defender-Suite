@@ -34,7 +34,7 @@ In this exercise, we will access the Microsoft Defender Portal to create Block L
    ![Picture 1](../Media/block3.png)
 
 5. In the **Block URLs** flyout that opens, configure the following settings and select **Add**:
-   - **Add URLs with wildcards**: **loop.microsoft.com/***.
+   - **Add URLs with wildcards**: **loop.microsoft.com**.
    - **Remove block entry after**: Select 30 days.
    - **Optional note**: The URLs listed have been blocked due to security reasons.
 
