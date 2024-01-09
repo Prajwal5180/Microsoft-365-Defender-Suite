@@ -22,7 +22,7 @@ In this lab, you will complete the following tasks:
    ![Picture 1](../Media/image_51.png)
 
 1. Provide the details in the report details tab, click on **Download sample log** which we will be using in next step and select **Next**.
-   - **Report name** : Report<inject key="DeploymentID" enableCopy="false"></inject>
+   - **Report name** : Report
    - **Description** : New report
    - **Source** : Blue coat ProxySG - Access log(W3C)
 
