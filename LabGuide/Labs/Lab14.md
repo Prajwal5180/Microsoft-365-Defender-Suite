@@ -79,5 +79,5 @@ The Defender for Identity sensor is a core element in Microsoft Defender, specif
 
 ## Review
 In this lab, you will complete the following tasks:
-- Creating a Defender for Identity workspace and Connecting to Windows Server Active Directory
-- Download and Install the Defender for Identity sensor
+- Created a Defender for Identity workspace and Connected to Windows Server Active Directory
+- Downloaded and Installed the Defender for Identity sensor
