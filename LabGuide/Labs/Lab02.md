@@ -9,7 +9,7 @@ In this Lab we will Configure Email authentication (also known as email validati
 
 
 In this lab, you will complete the following tasks:
-- Exercise 1: Configure DMARC For MOERA Domain.
+- Exercise 1: Configure DMARC For MOERA Domain
 
 ## Architecture Diagram
 
@@ -51,5 +51,5 @@ As we are using the MOERA domain for email, SPF (Sender Policy Framework) and DK
 
 ## Review
 In this lab, you will complete the following tasks:
-- Configure DMARC For MOERA Domain.
+- Configure DMARC For MOERA Domain
 
