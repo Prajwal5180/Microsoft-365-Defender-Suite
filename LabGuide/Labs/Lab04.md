@@ -10,13 +10,13 @@ In this Lab we will Configuring Priority Accounts, which involves identifying an
 
 
 In this lab, you will complete the following tasks:
-- Exercise 1: Add Priority Accounts.
+- Exercise 1: Add Priority Accounts
 
 ## Architecture Diagram
 
    ![Picture 1](../Media/lab4-arch.png)
 
-### Exercise 1: Add Priority Accounts. 
+### Exercise 1: Add Priority Accounts
 
 By concentrating security efforts on Priority Accounts, organizations can effectively strengthen their overall security posture and better protect their most crucial accounts from potential cyber threats within the Microsoft 365 ecosystem.
 
@@ -46,7 +46,7 @@ By concentrating security efforts on Priority Accounts, organizations can effect
 
 ## Review
 In this lab, you will complete the following tasks:
-- Add Priority Accounts.
+- Added Priority Accounts
    
 
 
