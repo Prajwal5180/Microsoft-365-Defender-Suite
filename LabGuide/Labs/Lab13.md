@@ -96,6 +96,5 @@ A Domain Controller (DC) is a vital component in a Windows-based network that ma
 
 ## Review
 In this lab, you will complete the following tasks:
-- Configure VM with Static IP Addresses
-- Install Active Directory Domain Services
+- Deploy Domain Controller
 
