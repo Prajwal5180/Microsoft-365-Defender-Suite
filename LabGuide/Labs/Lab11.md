@@ -106,5 +106,5 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
 ## Review
 In this lab, you will complete the following tasks:
-- Configure alert notifications in Microsoft Defender for Cloud Apps 
+- Configured alert notifications in Microsoft Defender for Cloud Apps 
 - Setup App Governance
