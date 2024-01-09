@@ -1,4 +1,4 @@
-## Lab 06 - Launch Phishing Simulation Campaigns. 
+## Lab 06 - Launch Phishing Simulation Campaigns
 
 ## Lab scenario
 
@@ -8,13 +8,13 @@ In this lab, we will engage in a simulated phishing attack using the Microsoft D
 
 
 In this lab, you will complete the following tasks:
-- Exercise 1: Simulate a Phishing Attack.
+- Exercise 1: Simulate a Phishing Attack
 
 ## Architecture Diagram
 
 ![Picture 1](../Media/lab6-arch.png)
 
-### Exercise 1: Simulate a Phishing Attack.
+### Exercise 1: Simulate a Phishing Attack
 
 In this we will sends fraudulent, malicious-like emails to their employees and assesses their response behavior. It helps evaluate the likelihood of each organization member falling for a phishing attack.
 
@@ -98,5 +98,5 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
 ## Review
 In this lab, you will complete the following tasks:
-- Simulate a Phishing Attack.
+- Simulated a Phishing Attack
    
