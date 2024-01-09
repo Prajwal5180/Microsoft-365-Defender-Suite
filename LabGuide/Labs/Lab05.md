@@ -76,5 +76,5 @@ In this exercise, we will utilize the Microsoft Defender portal to establish All
 
 ## Review
 In this lab, you will complete the following tasks:
-- Created Block List.
-- Created Allow List.
+- Created Block List
+- Created Allow List
