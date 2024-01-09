@@ -42,4 +42,4 @@ The Microsoft Defender portal combines protection, detection, investigation, and
 ## Review
 In this lab, you will complete the following tasks:
 - Learned about Microsoft Defender Portal
-- Login to Microsoft Defender Portal
+- Logged in to Microsoft Defender Portal
