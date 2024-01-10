@@ -3,68 +3,72 @@
   "Language": "English",
   "Files": [
      {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Overview.md",
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Gettingstarted.md",
         "Order": 1
      },
-    {
-        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab01.md",
+     {
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Overview.md",
         "Order": 2
      },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab02.md",
-      "Order": 3
-    },
+        "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab01.md",
+        "Order": 3
+     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab03.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab02.md",
       "Order": 4
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab04.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab03.md",
       "Order": 5
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab05.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab04.md",
       "Order": 6
     },
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab06.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab05.md",
       "Order": 7
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab07.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab06.md",
       "Order": 8
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab08.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab07.md",
       "Order": 9
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab09.1.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab08.md",
       "Order": 10
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab10.1.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab09.1.md",
       "Order": 11
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab11.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab10.1.md",
       "Order": 12
     },
     {
-      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab12.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab11.md",
       "Order": 13
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab13.md",
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab12.md",
       "Order": 14
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab14.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab13.md",
       "Order": 15
     },
     {
-      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab15.md",
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab14.md",
       "Order": 16
+    },
+    {
+      "RawFilePath": "https://docs-api.cloudlabs.ai/repos/raw.githubusercontent.com/CloudLabsAI-Azure/Microsoft-365-Defender-Suite/main/LabGuide/Labs/Lab15.md",
+      "Order": 17
     }
   ]
 } 
