@@ -88,6 +88,10 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
       ![Picture 1](../Media/image_39.png)
 
+1. Select app launcher on the top of left hand and select outlook.
+
+     ![Picture 1](../Media/lab06_outlook.png)
+
 1. Users will receive an email notification after some time. The Defender captures and records the user details when the user clicks on the URL, and respective training will be assigned to them.
 
       ![Picture 1](../Media/image_38.png)

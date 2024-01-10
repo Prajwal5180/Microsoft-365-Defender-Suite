@@ -51,6 +51,11 @@ In this exercise, we will access the Microsoft Defender Portal to create Block L
    ![Picture 1](../Media/mail.png)
 
     >**Note**: You can send another E-mail to ODL User without having the URL Link in them and find ODL user is able to received mail.
+
+1. Select app launcher on the top of left hand and select outlook.
+
+     ![Picture 1](../Media/lab06_outlook.png)
+     
 ### Exercise 2: Create Allow Lists
 
 In this exercise, we will utilize the Microsoft Defender portal to establish Allow Lists. By submitting URLs for Microsoft analysis, we enable the system to recognize and allow specific URLs that are deemed clean. This proactive approach helps in preventing false positives and ensures that legitimate URLs are not inadvertently blocked. Configuring Allow Lists is crucial for maintaining a balance between stringent security measures and allowing essential, trustworthy URLs to function seamlessly within our network.
