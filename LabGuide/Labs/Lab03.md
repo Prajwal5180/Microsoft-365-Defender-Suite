@@ -36,7 +36,7 @@ Anti-spam policies serve as the backbone for managing configurable settings rela
 
    ![Picture 1](../Media/5.png)
 
-6. Under Users, groups and domains tab you will add the Users, groups and domains to be included in the Anti spam policy as depicted in the screenshot and select Next.
+6. Under **Users, groups and domains** tab you will add the Users, Groups and Domains to be included in the Anti spam policy as depicted in the screenshot and select Next.
 
    ![Picture 1](../Media/antispams1.png)
 
@@ -79,7 +79,7 @@ Anti-Malware policies are designed to safeguard against malware, viruses, spywar
 
    ![Picture 1](../Media/MALWARE5.png)
 
-6. Under Users and domains tab add the Users, groups and domains to be included in the Anti malware policy and select Next.
+6. Under **Users and domains** tab add the Users, Groups and Domains to be included in the Anti malware policy and select Next.
 
    ![Picture 1](../Media/antimalwares1.png)
 
@@ -108,7 +108,7 @@ Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security f
 
    ![Picture 1](../Media/PHISHING1.png)
 
-5. Under Users, groups and domains tab add the Users, groups and domains to be included in the Anti phishing policy and select Next.
+5. Under **Users, groups and domains** tab add the Users, Groups and Domains to be included in the Anti phishing policy and select Next.
 
    ![Picture 1](../Media/antiphishings1.png)
 
