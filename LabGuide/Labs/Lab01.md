@@ -34,7 +34,7 @@ The Microsoft Defender portal combines protection, detection, investigation, and
    
    ![Picture 1](../Media/image_1.png)
 
-   >**Note:** If the dialog box is will not appear you can navigate to the **Guided Tour** and Click on **Cloud apps**.
+   >**Note:** If the dialog box does not appear you can navigate to the **Guided Tour** and Click on **Cloud apps**.
 
       ![Picture 1](../Media/image_2.png)   
 
