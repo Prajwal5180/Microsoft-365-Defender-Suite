@@ -2,7 +2,7 @@
 
 ## Lab scenario
 
-In this Lab we will Configure Email authentication (also known as email validation) which is a group of standards that tries to stop email messages from forged senders (also known as spoofing). We are using the @*.onmicrosoft.com domain for email (also known as the Microsoft Online Email Routing Address or **MOERA** domain) authentication using **DMARC** (Domain-based Message Authentication, Reporting, and Conformance) in this lab.
+In this Lab we will Configure Email authentication (also known as email validation) which is a group of standards that tries to stop email messages from forged senders (also known as spoofing). We are using the *.onmicrosoft.com domain for email (also known as the Microsoft Online Email Routing Address or **MOERA** domain) authentication using **DMARC** (Domain-based Message Authentication, Reporting, and Conformance) in this lab.
 
 
 ## Lab objectives (Duration: 15 minutes)
