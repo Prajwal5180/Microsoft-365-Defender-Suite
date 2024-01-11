@@ -100,9 +100,7 @@ Choose your user account for the lab tenant and select **Select**.
 
 3. From the left-hand navigation pane, under **Cloud apps**, select **Activity log**.
 
-4. Using the **App: filter** pick **Microsoft Forms** from the list.
-
-5. Notice the sign-on records.
+4. Notice the sign-on records.
 
    ![Picture 1](../Media/image_50.png)
 
