@@ -40,13 +40,13 @@ Anti-spam policies serve as the backbone for managing configurable settings rela
 
    ![Picture 1](../Media/antispams1.png)
 
->**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.
+>**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now. In the environment details tab you will get the username, the first part of the username will be the user & the second part will be the domain. Example, if the username is odl_user_1187266@azurehol1017.onmicrosoft.com, then the user would be **ODL_User 1187266**, while domain name would be **azurehol1017.onmicrosoft.com**.
 
 7. Under Bulk email threshold & spam properties tab. Keep the default option selected and select Next. (The properties are customizable and can be adjusted to suit specific requirements)
 
    ![Picture 1](../Media/7-1.png)
 
-8. Under Actons tab. Keep the default option selected and select Next.
+8. Under Actions tab. Keep the default option selected and select Next.
 
    ![Picture 1](../Media/8-1.png)
 
@@ -57,6 +57,10 @@ Anti-spam policies serve as the backbone for managing configurable settings rela
 10. Under Review tab. Select Create button.
 
     ![Picture 1](../Media/10.png)
+
+11. Click on Done.
+
+    ![Picture 1](../Media/as11.png)
 
 ### Exercise 2: Configure Anti-malware Policy
 
@@ -83,15 +87,19 @@ Anti-Malware policies are designed to safeguard against malware, viruses, spywar
 
    ![Picture 1](../Media/antimalwares1.png)
 
->**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.
+>**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.In the environment details tab you will get the username, the first part of the username will be the user & the second part will be the domain. Example, if the username is odl_user_1187266@azurehol1017.onmicrosoft.com, then the user would be **ODL_User 1187266**, while domain name would be **azurehol1017.onmicrosoft.com**.
 
 7. Under Protected settings tab. Keep the default options selected and select Next.
 
    ![Picture 1](../Media/MALWARE7.png)
 
-8. Under Review tab. Select Create button.
+8. Under Review tab. Click on Submit button.
 
    ![Picture 1](../Media/MALWARE8.png)
+
+9. Click on Done.
+    
+    ![Picture 1](../Media/am9.png)
 
 ### Exercise 3: Configure Anti-phishing Policy
 
@@ -112,15 +120,23 @@ Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security f
 
    ![Picture 1](../Media/antiphishings1.png)
 
->**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.
+>**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.In the environment details tab you will get the username, the first part of the username will be the user & the second part will be the domain. Example, if the username is odl_user_1187266@azurehol1017.onmicrosoft.com, then the user would be **ODL_User 1187266**, while domain name would be **azurehol1017.onmicrosoft.com**.
 
 6. Under Phishing threshold & protection tab add the senders and custom domains as required and select Next.
 
    ![Picture 1](../Media/PHISHING7.png)
 
-7. Under Review tab. Select Create button.
+7. Under Actions tab, keept the default options selected and click on Next.
+
+   ![Picture 1](../Media/ps8.png)
+   
+8. Under Review tab, click on Submit button.
 
    ![Picture 1](../Media/PHISHING9.png)
+
+9. Click on Done.
+
+   ![Picture 1](../Media/ps10.png)
 
 ## Review
 In this lab, you will complete the following tasks:

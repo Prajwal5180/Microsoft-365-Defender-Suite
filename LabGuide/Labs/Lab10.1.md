@@ -66,7 +66,7 @@ Choose your user account for the lab tenant and select **Select**.
 
 ## Exercise 2 - Create App Access Policies
 
-1. Launch a new InPrivate browsing window, and browse to https://www.security.microsoft.com/.
+1. Launch a new InPrivate browsing window, and browse to https://security.microsoft.com/.
 
 1. In the Microsoft Defender Portal, under **Cloud Apps**, go to **Policies -> Policy management**. Then select the **Conditional access** tab.
 

@@ -32,7 +32,7 @@ Using this environment, You'll be able to explore features and offerings offered
 
 - You'll have access to a pre-configured Microsoft user account with an active Azure subscription, a tenant, and a Microsoft 365 E5 license assigned to the user. 
    
-  User account has assigned as Owner at subscription and Global administrator at the tenant level. You need to use the same user account throughout the lab to get the most out of the lab. 
+  User account has been assigned as Owner at subscription and Global administrator at the tenant level. You need to use the same user account throughout the lab to get the most out of the lab. 
 
 #### **Azure Credits**: 
 
@@ -57,7 +57,7 @@ Using this environment, You'll be able to explore features and offerings offered
 
 - **Azure Cost Analysis**: Maintain a practice of checking the Cost Analysis report of the assigned Azure subscription often in check the Azure spending so that the environment can be retained for a longer duration of time.
 
-- **Alert notifications**: Make sure to check your registered email's inbox for any alert-related mails. Alerts give you can head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible.
+- **Alert notifications**: Make sure to check your registered email's inbox for any alert-related mails. Alerts give you a head start to keep your Azure spending in control and to plan out the remaining credits in the best way possible.
 
 ## Lab Guide Contents:
 You will have access to a lab guide which is a reference material to assist you in getting started with the exploration.
