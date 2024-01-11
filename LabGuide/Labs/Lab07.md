@@ -39,7 +39,9 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 
    ![Picture 1](../Media/Lab0705.png)
 
-1. Click on **Review + create** to create the user.
+1. Click on **Review + create** and save your **User principal name** and **Password** for login and click to **create** the user.
+
+   ![Picture 1](../Media/Lab0716.png)
 
 ### Exercise 2: Turn on All Incidents Alert
 
