@@ -22,13 +22,15 @@ The Microsoft Defender portal combines protection, detection, investigation, and
 
 ### Exercise 2: Login to Microsoft Defender Portal
 
-1. start the Microsoft Edge browser.
+1. Start the Microsoft Edge browser. If a pop up appears in the browser to copy the data from clipboard, click on Allow.
 
 1. In the Edge browser, go to the Microsoft Defender portal at (https://security.microsoft.com).
 
 1. In the **Sign in** dialog box, copy and paste Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
 
 1. In the **Enter password** dialog box, copy and paste Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
+
+  >**Note:** If a dialog box appears stating action required to set up MFA, click on **Ask later**.
 
 1. On the **Microsoft Defender** portal, a dialog box will appear you can click on next and explore the portal.
    
