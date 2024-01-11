@@ -92,8 +92,8 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
      ![Picture 1](../Media/lab06_outlook.png)
 
-1. Users will receive an email notification after some time. The Defender captures and records the user details when the user clicks on the URL, and respective training will be assigned to them.
-
+1. Users will receive an email notification after some time. The Defender captures and records the user details when the user clicks on the URL & tries to log in, respective training will be assigned to them.
+ 
       ![Picture 1](../Media/image_38.png)
 
 1. Navigate back to the **Report** to check user activity.
