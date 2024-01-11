@@ -58,6 +58,10 @@ Anti-spam policies serve as the backbone for managing configurable settings rela
 
     ![Picture 1](../Media/10.png)
 
+11. Click on Done.
+
+    ![Picture 1](../Media/as11.png)
+
 ### Exercise 2: Configure Anti-malware Policy
 
 Anti-Malware policies are designed to safeguard against malware, viruses, spyware, and other harmful software that could be transmitted through emails. Anti-Malware policies scan incoming and outgoing emails for malicious content like malware and viruses. They use signature-based and behavior-based detection to identify threats, taking predefined actions upon detection, such as quarantining or deleting malicious attachments or links.
@@ -89,9 +93,13 @@ Anti-Malware policies are designed to safeguard against malware, viruses, spywar
 
    ![Picture 1](../Media/MALWARE7.png)
 
-8. Under Review tab. Select Create button.
+8. Under Review tab. Click on Submit button.
 
    ![Picture 1](../Media/MALWARE8.png)
+
+9. Click on Done.
+    
+    ![Picture 1](../Media/am9.png)
 
 ### Exercise 3: Configure Anti-phishing Policy
 
@@ -118,9 +126,17 @@ Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security f
 
    ![Picture 1](../Media/PHISHING7.png)
 
-7. Under Review tab. Select Create button.
+7. Under Actions tab, keept the default options selected and click on Next.
+
+   ![Picture 1](../Media/ps8.png)
+   
+8. Under Review tab, click on Submit button.
 
    ![Picture 1](../Media/PHISHING9.png)
+
+9. Click on Done.
+
+   ![Picture 1](../Media/ps10.png)
 
 ## Review
 In this lab, you will complete the following tasks:
