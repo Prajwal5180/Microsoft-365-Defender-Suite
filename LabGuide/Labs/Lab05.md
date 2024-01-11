@@ -46,11 +46,11 @@ In this exercise, we will access the Microsoft Defender Portal to create Block L
 
    ![Picture 1](../Media/block2.png)
 
-1. Once you configure the block URL, you can send a mail to the user using your email ID with the given link: **loop.microsoft.com** in your email. you will find the mail is blocked as you don't received.
+1. Once you configure the block URL, you can send a mail to the user using your email ID with the given link: **https://loop.microsoft.com/** in your email. You will find the mail is blocked as you did not receive it.
 
    ![Picture 1](../Media/mail.png)
 
-    >**Note**: You can send another E-mail to ODL User without having the URL Link in them and find ODL user is able to received mail.
+    >**Note**: You will have to log in to outlook with the ODL user credentials to check the mail.You can send another E-mail to ODL User without the URL link and check if the ODL user is able to receive the mail.
 
 1. Select app launcher on the top of left hand and select outlook.
 
