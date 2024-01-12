@@ -83,16 +83,27 @@ In this task, you will create a Microsoft Entra ID User with Global Reader Permi
 
    ![Picture 1](../Media/Lab0713.png)
 
-1. In your browser search for the **portal.azure.com** and login with your user credential which you created with the **Global Reader** role you will get the **NoScript XSS Warning** message.
+1. In your browser search for the **portal.azure.com**. You'll see the Sign into Microsoft Azure tab. Provide **Email/Username** of the user which you have created with **Global Reader** role and **Password** which you have specified while creating the user and click on **Sign in**.
+
+   ![Picture 1](../Media/incident-tor-1.png)
+
+   ![Picture 1](../Media/incident-tor-5.png)
+
+1. You will either get the **NoScript XSS Warning** message or message in Microsoft tab that **You don't have access to this**. Close the tab.
 
    ![Picture 1](../Media/Lab0714.png)
 
-1. Now navigate back to the Microsoft Defender Portal at https://security.microsoft.com/.
+   ![Picture 1](../Media/incident-tor-2.png)
 
-1. Under **Incidents and Alerts**, select **Incidents**, It will genrate a **Anonymous IP address involving one user**.
+1. Now navigate back to the Microsoft Defender Portal at [Microsoft Defender Portal](https://security.microsoft.com/) and login with the **Global Admin** access user which you can find in the Environment details tab.
+
+1. Under **Incidents and Alerts**, select **Incidents**. You will see that a incident is created **Anonymous IP address involving one user**.
 
    ![Picture 1](../Media/Lab0715.png)
 
+ >**Note**: Generating the incident may require 10-15 minutes. If the incident is not visible, please refresh the page after 10-15 minutes.
+
+11. You can uninstall the Tor browser now.
 
 ## Review
 In this lab, you will complete the following tasks:
