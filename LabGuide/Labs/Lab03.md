@@ -50,17 +50,28 @@ Anti-spam policies serve as the backbone for managing configurable settings rela
 
    ![Picture 1](../Media/8-1.png)
 
-9. Under Allow & block list tab. Provide the Allowed and Blocked senders and Domains list and select Next.
+9. Under Allow & block list tab. Select the **Manage 0 sender(s)** under **Senders(0)** in Blocked section to block the emails from sending emails. Manage blocked senders tab will open, select **+ Add senders**
 
-   ![Picture 1](../Media/9-2.png)
+   ![Picture 1](../Media/anti-spam-1.png)
 
-10. Under Review tab. Select Create button.
+10. A new tab **Add senders** will open. Provide your personal email id to test if the block is working or not and select **Add senders**. Select **Done**.
+
+    ![Picture 1](../Media/anti-spam-2.png)
+
+    ![Picture 1](../Media/anti-spam-3.png)
+
+11. You can see one sender is selected in the Blocked Senders section. Select **Next**.
+
+    ![Picture 1](../Media/anti-spam-4.png)
+
+10. Under Review tab. Select **Create** button.
 
     ![Picture 1](../Media/10.png)
 
 11. Click on Done.
-
     ![Picture 1](../Media/as11.png)
+
+12. Feel free to use the personal email address you provided in step 10 to send an email to the ODL_user email id: <inject key="AzureAdUserEmail"></inject> . You'll observe that the email is being filtered into the Junk Email folder.
 
 ### Exercise 2: Configure Anti-malware Policy
 
@@ -126,10 +137,10 @@ Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security f
 
    ![Picture 1](../Media/PHISHING7.png)
 
-7. Under Actions tab, keept the default options selected and click on Next.
+7. Under Actions tab, keep the default options selected and click on Next.
 
    ![Picture 1](../Media/ps8.png)
-   
+
 8. Under Review tab, click on Submit button.
 
    ![Picture 1](../Media/PHISHING9.png)
