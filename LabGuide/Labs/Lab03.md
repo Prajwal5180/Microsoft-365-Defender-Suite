@@ -69,6 +69,7 @@ Anti-spam policies serve as the backbone for managing configurable settings rela
     ![Picture 1](../Media/10.png)
 
 11. Click on Done.
+
     ![Picture 1](../Media/as11.png)
 
 12. Feel free to use the personal email address you provided in step 10 to send an email to the ODL_user email id: <inject key="AzureAdUserEmail"></inject> . You'll observe that the email is being filtered into the Junk Email folder.
