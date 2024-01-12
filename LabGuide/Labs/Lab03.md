@@ -54,7 +54,7 @@ Anti-spam policies serve as the backbone for managing configurable settings rela
 
    ![Picture 1](../Media/anti-spam-1.png)
 
-10. A new tab **Add senders** will open. Provide your personal email id to test if the block is working or not and select **Add senders**. Select **Done**.
+10. A new tab **Add senders** will open. Provide your personal email address to verify whether the block is functioning correctly or not and select **Add senders**. Select **Done**.
 
     ![Picture 1](../Media/anti-spam-2.png)
 
