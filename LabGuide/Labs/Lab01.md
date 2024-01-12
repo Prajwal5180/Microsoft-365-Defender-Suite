@@ -64,7 +64,7 @@ You can access the link to gain a fundamental understanding of Microsoft Defende
 
 11. You can also move the cards around. Hover your mouse cursor over the title bar of any card, when you will get a cross shaped cursor select the card and move it to your desired location.
 
-   ![Picture 1](../Media/defender-lab1-6.png)
+    ![Picture 1](../Media/defender-lab1-6.png)
 
 12. Examine the video to thoroughly explore the Microsoft Defender Portal [Microsoft Defender Portal](https://www.microsoft.com/en-us/videoplayer/embed/RWBKau?postJsllMsg=true)
 
