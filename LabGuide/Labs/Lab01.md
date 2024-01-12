@@ -30,21 +30,21 @@ You can access the link to gain a fundamental understanding of Microsoft Defende
 
 1. Start the Microsoft Edge browser. If a pop up appears in the browser to copy the data from clipboard, click on Allow.
 
-1. Access the Microsoft Defender portal in the Edge browser by going to [Microsoft Defender Portal](https://security.microsoft.com).
+2. Access the Microsoft Defender portal in the Edge browser by going to [Microsoft Defender Portal](https://security.microsoft.com).
 
-1. In the **Sign in** dialog box, copy and paste Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
+3. In the **Sign in** dialog box, copy and paste Email/Username: <inject key="AzureAdUserEmail"></inject> and then select Next.
 
-1. In the **Enter password** dialog box, copy and paste Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
+4. In the **Enter password** dialog box, copy and paste Password: <inject key="AzureAdUserPassword"></inject> and then select **Sign in**.
 
   >**Note:** If a dialog box appears stating action required to set up MFA, click on **Ask later**.
 
-1. If prompted to stay signed in, you can click **Yes**.
+5. If prompted to stay signed in, you can click **Yes**.
 
-1. If this is the first time you visit the Microsoft 365 Defender portal, you may get a pop-up window to take a quick tour. It is recommended that you complete the tour. Select **Take a quick tour**. Read the description provided in each pop-up window, then select Next. Continue through the tour until you get to the end, then select **Done**. 
+6. If this is the first time you visit the Microsoft 365 Defender portal, you may get a pop-up window to take a quick tour. It is recommended that you complete the tour. Select **Take a quick tour**. Read the description provided in each pop-up window, then select Next. Continue through the tour until you get to the end, then select **Done**. 
 
    ![Picture 1](../Media/defender-lab1-1.png)
 
-1. On the **Microsoft Defender** portal, a dialog box will appear you can click on next and explore the portal.
+7. On the **Microsoft Defender** portal, a dialog box will appear you can click on next and explore the portal.
    
    ![Picture 1](../Media/image_1.png)
 
@@ -52,21 +52,21 @@ You can access the link to gain a fundamental understanding of Microsoft Defende
 
       ![Picture 1](../Media/image_2.png)
 
-1. The welcome page of the Microsoft 365 Defender portal, shows many of the common cards that security teams need. The composition of cards and data is dependent on the user role. Scroll through the page to view the default set of cards for your role as global admin.
+8. The welcome page of the Microsoft 365 Defender portal, shows many of the common cards that security teams need. The composition of cards and data is dependent on the user role. Scroll through the page to view the default set of cards for your role as global admin.
 
-1. The cards displayed can be customized to your preference. Select **+ Add cards**. A Window opens indicating that you already have all the cards on your home page. Close the window by select the X on top-right corner of the window.
+9. The cards displayed can be customized to your preference. Select **+ Add cards**. A Window opens indicating that you already have all the cards on your home page. Close the window by select the X on top-right corner of the window.
 
    ![Picture 1](../Media/defender-lab1-4.png)
 
    ![Picture 1](../Media/defender-lab1-5.png)
 
-1. Selecting the ellipses on the top-right of any card will provide the option to Remove.
+10. Selecting the ellipses on the top-right of any card will provide the option to Remove.
 
-1. You can also move the cards around. Hover your mouse cursor over the title bar of any card, when you will get a cross shaped cursor select the card and move it to your desired location.
+11. You can also move the cards around. Hover your mouse cursor over the title bar of any card, when you will get a cross shaped cursor select the card and move it to your desired location.
 
    ![Picture 1](../Media/defender-lab1-6.png)
 
-1. Examine the video to thoroughly explore the Microsoft Defender Portal [Microsoft Defender Portal](https://www.microsoft.com/en-us/videoplayer/embed/RWBKau?postJsllMsg=true)
+12. Examine the video to thoroughly explore the Microsoft Defender Portal [Microsoft Defender Portal](https://www.microsoft.com/en-us/videoplayer/embed/RWBKau?postJsllMsg=true)
 
 
 ## Review
