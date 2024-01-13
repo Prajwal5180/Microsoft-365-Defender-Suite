@@ -101,9 +101,13 @@ Anti-Malware policies are designed to safeguard against malware, viruses, spywar
 
 >**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.In the environment details tab you will get the username, the first part of the username will be the user & the second part will be the domain. Example, if the username is odl_user_1187266@azurehol1017.onmicrosoft.com, then the user would be **ODL_User 1187266**, while domain name would be **azurehol1017.onmicrosoft.com**.
 
-7. Under Protected settings tab. Keep the default options selected and select Next.
+7. Under Protected settings tab, select **Select file types** to choose the file types which are automatically identified as malware in email messages. Type **.ps1** and select it. Select **Add** and **Done** button to add .ps1 file types as malware in the emails.
 
-   ![Picture 1](../Media/MALWARE7.png)
+   ![Picture 1](../Media/malware-new-2.png)
+
+8. In the Protected settings tab, select **Quarantine the message** under when these file types are found and select **Notify an admin about undelivered messages from internal senders** and **Notify an admin about undelivered messages from internal senders** and provide the ODL_user email id: <inject key="AzureAdUserEmail"></inject> in both section and select **Next**.
+
+   ![Picture 1](../Media/malware-new-1.png)
 
 8. Under Review tab. Click on Submit button.
 
@@ -112,6 +116,8 @@ Anti-Malware policies are designed to safeguard against malware, viruses, spywar
 9. Click on Done.
     
     ![Picture 1](../Media/am9.png)
+
+12. Feel free to use your personal email address to send an email to the ODL_user email id: <inject key="AzureAdUserEmail"></inject> with any of the file types mentioned in the protection settings but for now you can add any file with type **.ps1** extension and send the email. You'll receive one email observe that the email is being filtered into the Junk Email folder.
 
 ### Exercise 3: Configure Anti-phishing Policy
 
