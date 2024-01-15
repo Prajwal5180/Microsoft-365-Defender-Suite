@@ -117,7 +117,9 @@ Anti-Malware policies are designed to safeguard against malware, viruses, spywar
     
     ![Picture 1](../Media/am9.png)
 
-12. Feel free to use your personal email address to send an email to the ODL_user email id: <inject key="AzureAdUserEmail"></inject> with any of the file types mentioned in the protection settings but for now you can add any file with type **.ps1** extension and send the email. You'll receive one email observe that the email is being filtered into the Junk Email folder.
+12. Feel free to use your personal email address to send an email to the ODL_user email id: <inject key="AzureAdUserEmail"></inject> with any of the file types mentioned in the protection settings but for now you can add any file with type **.ps1** extension and send the email. You'll receive one email with the title **Undeliverable message** with the message **Your email message was not delivered to the intended recipients because malware was detected.**.
+
+    ![Picture 1](../Media/malware-new-4.png)
 
 ### Exercise 3: Configure Anti-phishing Policy
 
