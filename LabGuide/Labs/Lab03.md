@@ -142,9 +142,32 @@ Anti-phishing in Microsoft Defender for Office 365 is a comprehensive security f
 
 >**Note**: As we haven't created any groups so we will be configuring only Users and the domain for now.In the environment details tab you will get the username, the first part of the username will be the user & the second part will be the domain. Example, if the username is odl_user_1187266@azurehol1017.onmicrosoft.com, then the user would be **ODL_User 1187266**, while domain name would be **azurehol1017.onmicrosoft.com**.
 
-6. Under Phishing threshold & protection tab add the senders and custom domains as required and select Next.
+6. Under Phishing threshold & protection tab, keep the Phishing email threshold as **1- Standard**. Under **Impersonation**, select the checkbox **Enable users to protect** and select **manage 0 sender(s)** to add the senders to be included in phishing protection. A new tab **Manage senders for impersonation protection** will open, select **Add user**. A new tab **Add user** will open, provide a name and valid email address. You can provide your personal email address or any specific email address that you want to configure in this policy. Then, click on **Add**.
+You will be back in the Manage senders for impersonation protection tab, you can see the user that you have added then click on **Done**.
 
-   ![Picture 1](../Media/PHISHING7.png)
+   ![Picture 1](../Media/phishing-new-1.png)
+
+   ![Picture 1](../Media/phishing-new-4.png)
+
+   ![Picture 1](../Media/phishing-new-5.png)
+
+7.  Under Phishing threshold & protection tab, select the checkbox **Enable domains to protect** and **Include domains I own** to enable impersonation protection for you domain. You can also select **Include custom domains** and manage domains that could be yours or domains that belong to your key suppliers and partners.
+
+   ![Picture 1](../Media/phishing-new-7.png)
+
+
+7. Under Phishing threshold & protection tab, select the checkbox **Manage 0 trusted sender(s) and domain(s)**. A new tab **Manage custom domains for impersonation protection** will open. Keep the **Sender** option selected, select **Add senders** and provide the email that you want to keep exceptions to the impersonation protection settings and select **Add**.
+
+   ![Picture 1](../Media/phishing-new-8.png)
+
+   ![Picture 1](../Media/phishing-new-9.png)
+
+8. In the **Manage custom domains for impersonation protection** tab, select **Domain>Add domains**. A new tab **Add trusted domains** will open, provide the domain that you want to keep exceptions to the impersonation protection settings and select **Add**.
+
+   ![Picture 1](../Media/phishing-new-10.png)
+
+   ![Picture 1](../Media/phishing-new-11.png)
+
 
 7. Under Actions tab, keep the default options selected and click on Next.
 
