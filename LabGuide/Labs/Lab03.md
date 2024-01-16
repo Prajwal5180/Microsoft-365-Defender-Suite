@@ -181,6 +181,22 @@ You will be back in the Manage senders for impersonation protection tab, you can
 
    ![Picture 1](../Media/ps10.png)
 
+10. From the left panel select **Review** under Email & collaboration. You'll observe the presence of four segments, as **Action center**, **Quarantine**, **Restricted Entities**, **Malware trends**. You have the option to choose these and respond to the threats that have occurred to the user.
+
+    ![Picture 1](../Media/phishing-new-12.png)
+
+11. Select **Quarantine** tab. You will be redirected to Quarantine page. Select **Email** tab if not selected. You'll find a list of emails that have been placed in quarantine based on the policy we've established. Select any of the email, it will open a new tab with all the details of email. You can select **Release email** to release it from qurantine to the recipient of the email.
+
+    ![Picture 1](../Media/phishing-new-13.png)
+
+12. A new tab **Release email to recipients inboxes** will open. Select **Release to all recipients** to release the email for all respective recipients and select **Release message**.
+
+    ![Picture 1](../Media/phishing-new-14.png)
+
+13. You will notice the successful message **Email has been released to recipient inboxes**. Click **Done**, and then you can verify the recipient's inboxes to ensure the email reaches its intended destination.
+
+    ![Picture 1](../Media/phishing-new-15.png)
+ 
 ## Review
 In this lab, you will complete the following tasks:
 - Configured Anti-Spam Policy
