@@ -72,7 +72,7 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
       ![Picture 1](../Media/image_31.png)
 
-1. In *Review Simulation* page, **Send a test** and click on **Submit**.
+1. In *Review Simulation* page, click **Send a test**  button to check if the phishing attack is receiving on the email. Now, click on **Submit**.
 
       ![Picture 1](../Media/image_32.png)
 
@@ -84,13 +84,29 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
       ![Picture 1](../Media/image_34.png)
 
-1. Click on the **Credentials_simulation** and navigate to the **Report** section.
+1. Click on the **Credentials_simulation** and navigate to the **Report** section. You will see that **O% users were compromised and 0% users reported**
 
       ![Picture 1](../Media/image_39.png)
 
-1. Select app launcher on the top of left hand and select outlook.
+1. Select app launcher on the top of left hand and select **Outlook**.
 
      ![Picture 1](../Media/lab06_outlook.png)
+
+1. You'll see the **Sign in to continue to Outlook** tab. Here, enter your credentials:
+
+   - **Email/Username:** <inject key="AzureAdUserEmail"></inject> . Click on **Next**.
+
+   ![Picture 1](../Media/outlook-login-1.png)
+
+1. Next, provide your password:
+ 
+   - **Password:** <inject key="AzureAdUserPassword"></inject> . Click on **Sign in**.
+ 
+   ![Enter Your Password](../Media/outlook-login-2.png)
+ 
+1. If prompted to stay signed in, you can click "No."
+
+   ![Enter Your Password](../Media/outlook-login-3.png)
 
 1. Users will receive an email notification after some time. The Defender captures and records the user details when the user clicks on the URL & tries to log in, respective training will be assigned to them.
  
