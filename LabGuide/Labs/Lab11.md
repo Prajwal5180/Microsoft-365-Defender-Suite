@@ -81,8 +81,12 @@ Select **Add admin consent for xxxx**
 
    ![Picture 1](../Media/app-govern-7.png)
 
+7. A new tab **Grant admin consent confirmation** will open. Select **Yes**.
 
-#### Task 2: Create OAuth app policies for Microsoft Entra ID
+   ![Picture 1](../Media/app-govern-8.png)
+
+
+#### Task 3: Create OAuth app policies for Microsoft Entra ID
 
 1. To create a new app policy for Azure AD apps, go to Microsoft Defender XDR > App governance > Policies > Azure AD > Create new policy.
 
