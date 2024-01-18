@@ -56,6 +56,31 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
    ![Picture 1](../Media/AppGovernance4.png)
 
+#### Task 2: Create app registration in Entra ID
+
+1. In the **Search resources, services, and docs** text box at the top of the Azure portal page, type **Microsoft Entra ID** and press the **Enter** key.
+
+2. On the **Overview** blade of the Microsoft Entra ID tenant, in the **Manage** section, select **App registrations**.
+
+   ![Picture 1](../Media/app-govern-2.png)
+
+3. On the **App registrations** page, on the menu, select **+ New registration**.
+
+   ![Picture 1](../Media/app-govern-3.png)
+
+4. On the **Register an application** blade, register an app named **demoapp** using the default values. Under **Supported account types**, select **Accounts in this organizational directory only (xxxx only - Single tenant)**, and rest you do not need to enter the redirect URI, select **Register**.
+
+   ![Picture 1](../Media/app-govern-4.png)
+
+5. You will be redirected to demoapp app registration, in the **Manage** section, select **API permissions**. Under Configured permissions, select **+ Add a permission**. A new tab **Request API permissions** will open, under **Select an API** select **APIs my organization uses**. Type **Microsoft Cloud App Security** and select it.
+
+   ![Picture 1](../Media/app-govern-6.png)
+
+6. Under **Microsoft Cloud App Security** option, select **Delegated permissions**>**investigation.read** and then select **Add permissions** button.
+Select **Add admin consent for xxxx**
+
+   ![Picture 1](../Media/app-govern-7.png)
+
 
 #### Task 2: Create OAuth app policies for Microsoft Entra ID
 
