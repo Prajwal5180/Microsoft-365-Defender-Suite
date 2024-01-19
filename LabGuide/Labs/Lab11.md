@@ -12,7 +12,7 @@ In this lab, you will complete the following tasks:
 
 ## Architecture Diagram
 
-   ![Picture 1](../Media/lab11-arch.png)
+   ![Picture 1](../Media/lab11-arch-2.png)
 
 ### Exercise 1: Configure alert notifications in Microsoft Defender for Cloud Apps
 
