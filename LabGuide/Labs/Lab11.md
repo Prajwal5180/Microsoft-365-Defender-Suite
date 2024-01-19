@@ -150,9 +150,9 @@ Select **Add admin consent for xxxx**
 
 14. Go to **Microsoft Defender XDR portal > App governance**, select **Azure AD** tab. The **demoapp**, which was created in Task 2, its status will be changed into **Disabled by policy** state.
 
-    ![Picture 1](../Media/app-govern-16.png)
+    ![Picture 1](../Media/app-govern-17.png)
 
-   >**Note**: **You'll need to wait up to 24 hours to observe the outcome of the applied policy in app governance, resulting in a change in the status of the demoapp.**
+   >**Note**: **You'll need to wait up to 24 hours to observe the outcome of the applied policy in app governance, resulting in a change in the status of the demoapp. You can return in 2-3 hours to verify whether the app status has changed or not.**
 
 
 ## Review
