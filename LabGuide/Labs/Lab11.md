@@ -37,7 +37,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
 #### Task 1: Turn on app governance
 
-1. Go to https://security.microsoft.com/ > Settings > Cloud Apps > App governance
+1. Navigate to https://security.microsoft.com/ and login with global admin credentials. Go to **Settings > Cloud Apps > App governance**.
 
    ![Picture 1](../Media/AppGovernance1.png)
 
