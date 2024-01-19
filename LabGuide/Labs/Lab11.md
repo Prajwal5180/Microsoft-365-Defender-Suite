@@ -2,7 +2,7 @@
 
 ## Lab scenario
 
-In this lab, we will configure alert notifications in Microsoft Defender to manage potential threats, setting up email alerts for different severity levels. Simultaneously, we will establish App Governance within Microsoft 365 Security, activating governance frameworks, registering an application in Microsoft Entra ID using app registartion and creating OAuth app policies to regulate data usage for specific Azure AD apps. This lab equips admins to proactively monitor and respond to alerts while enforcing robust governance for secure and compliant app utilization.
+In this lab, we will configure alert notifications in Microsoft Defender to manage potential threats, setting up email alerts for different severity levels. Simultaneously, we will establish App Governance within Microsoft 365 Security, activating governance frameworks, registering an application in Microsoft Entra ID using app registration and creating OAuth app policies to regulate data usage for specific Azure AD apps. This lab equips admins to proactively monitor and respond to alerts while enforcing robust governance for secure and compliant app utilization.
 
 ## Lab objectives (Duration: 60 minutes)
 
@@ -85,7 +85,7 @@ Select **Add admin consent for xxxx**
 
    ![Picture 1](../Media/app-govern-8.png)
 
-   >**Note**: **You'll need to wait up to 24 hours to see and use the app created in app registartion in next task.**
+   >**Note**: **You'll need to wait up to 24 hours to see and use the app created in app registration in next task.**
 
 #### Task 3: Create OAuth app policies for Microsoft Entra ID
 
@@ -120,7 +120,7 @@ Select **Add admin consent for xxxx**
 
    ![Picture 1](../Media/app-govern-12.png)
 
-   >**Note**: **You'll need to wait up to 24 hours to see and use the app created in app registartion to become visible here. You can return in 2-3 hours to verify whether the app is visible at this location.**
+   >**Note**: **You'll need to wait up to 24 hours to see and use the app created in app registrations to become visible here. You can return in 2-3 hours to verify whether the app is visible at this location.**
 
 8. In Apply default conditions from the template? Select **No, I'll edit the conditions** and Select **Edit conditions**.
 
