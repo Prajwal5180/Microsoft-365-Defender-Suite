@@ -4,7 +4,7 @@
 
 In this lab, we will configure alert notifications in Microsoft Defender to manage potential threats, setting up email alerts for different severity levels. Simultaneously, we will establish App Governance within Microsoft 365 Security, activating governance frameworks, registering an application in Microsoft Entra ID using app registartion and creating OAuth app policies to regulate data usage for specific Azure AD apps. This lab equips admins to proactively monitor and respond to alerts while enforcing robust governance for secure and compliant app utilization.
 
-## Lab objectives (Duration: 40 minutes)
+## Lab objectives (Duration: 60 minutes)
 
 In this lab, you will complete the following tasks:
 - Exercise 1: Configure alert notifications in Microsoft Defender for Cloud Apps 
