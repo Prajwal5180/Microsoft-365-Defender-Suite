@@ -97,11 +97,11 @@ Select **Add admin consent for xxxx**
    ![Picture 1](../Media/AppGovernance6-2.png)
 
 3. Provide the details and Click **Next**.
-- Policy name: Custom Policy <inject key="DeploymentID" enableCopy="false" /></inject>
-- Description: Custom Policy <inject key="DeploymentID" enableCopy="false" /></inject>
-- Severity: Low
+- Policy name: **Custom Policy**
+- Description: **Custom Policy**
+- Severity: **High**
 
-   ![Picture 1](../Media/new1.png)
+   ![Picture 1](../Media/app-govern-9.png)
 
 4. Under Set policy scope and conditions tab select **No, I'll customize the policy**.
 
@@ -109,7 +109,7 @@ Select **Add admin consent for xxxx**
 
 5. In Set policy scope and conditions tab, under Policy scope Select **Specific apps > demoapp > Add** and then select **Next**.
 
-   ![Picture 1](../Media/new2.png)
+   ![Picture 1](../Media/app-govern-12.png)
 
 6. In Apply default conditions from the template? Select **No, I'll edit the conditions** and Select **Edit conditions**.
 
@@ -117,9 +117,9 @@ Select **Add admin consent for xxxx**
 
 7. Under Edit policy conditions. Select **Add condition** and select **Non-Graph API permissions**. Under Non-Graph API permissions, keep Apps with permissions to non-Graph APIs to **Yes**. Select **Save** and then select **Next**.
 
-   ![Picture 1](../Media/AppGovernance6-9.png)
+   ![Picture 1](../Media/app-govern-10.png)
 
-   ![Picture 1](../Media/new3.png)
+   ![Picture 1](../Media/app-govern-11.png)
 
 8. Under Set policy action select the check-box next to **Disable app** and select **Next**.
 
