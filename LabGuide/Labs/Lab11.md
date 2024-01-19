@@ -2,7 +2,7 @@
 
 ## Lab scenario
 
-In this lab, we will configure alert notifications in Microsoft Defender to manage potential threats, setting up email alerts for different severity levels. Simultaneously, we will establish App Governance within Microsoft 365 Security, activating governance frameworks and creating OAuth app policies to regulate data usage for specific Azure AD apps. This lab equips admins to proactively monitor and respond to alerts while enforcing robust governance for secure and compliant app utilization.
+In this lab, we will configure alert notifications in Microsoft Defender to manage potential threats, setting up email alerts for different severity levels. Simultaneously, we will establish App Governance within Microsoft 365 Security, activating governance frameworks, registering an application in Microsoft Entra ID using app registartion and creating OAuth app policies to regulate data usage for specific Azure AD apps. This lab equips admins to proactively monitor and respond to alerts while enforcing robust governance for secure and compliant app utilization.
 
 ## Lab objectives (Duration: 40 minutes)
 
@@ -37,7 +37,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
 #### Task 1: Turn on app governance
 
-1. Go to https://security.microsoft.com/ > Settings > Cloud Apps > App governance
+1. Navigate to https://security.microsoft.com/ and login with global admin credentials. Go to **Settings > Cloud Apps > App governance**.
 
    ![Picture 1](../Media/AppGovernance1.png)
 
@@ -56,10 +56,39 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 
    ![Picture 1](../Media/AppGovernance4.png)
 
+#### Task 2: Register an application in Microsoft Entra ID
 
-#### Task 2: Create OAuth app policies for Microsoft Entra ID
+1. In the **Search resources, services, and docs** text box at the top of the Azure portal page, type **Microsoft Entra ID** and press the **Enter** key.
 
-1. To create a new app policy for Azure AD apps, go to Microsoft Defender XDR > App governance > Policies > Azure AD > Create new policy.
+2. On the **Overview** blade of the Microsoft Entra ID tenant, in the **Manage** section, select **App registrations**.
+
+   ![Picture 1](../Media/app-govern-2.png)
+
+3. On the **App registrations** page, on the menu, select **+ New registration**.
+
+   ![Picture 1](../Media/app-govern-3.png)
+
+4. On the **Register an application** blade, register an app named **demoapp** using the default values. Under **Supported account types**, select **Accounts in this organizational directory only (xxxx only - Single tenant)**, and rest you do not need to enter the redirect URI, select **Register**.
+
+   ![Picture 1](../Media/app-govern-4.png)
+
+5. You will be redirected to demoapp app registration, in the **Manage** section, select **API permissions**. Under Configured permissions, select **+ Add a permission**. A new tab **Request API permissions** will open, under **Select an API** select **APIs my organization uses**. Type **Microsoft Cloud App Security** and select it.
+
+   ![Picture 1](../Media/app-govern-6.png)
+
+6. Under **Microsoft Cloud App Security** option, select **Delegated permissions**>**investigation.read** and then select **Add permissions** button.
+Select **Add admin consent for xxxx**
+
+   ![Picture 1](../Media/app-govern-7.png)
+
+7. A new tab **Grant admin consent confirmation** will open. Select **Yes**.
+
+   ![Picture 1](../Media/app-govern-8.png)
+
+
+#### Task 3: Create OAuth app policies for Microsoft Entra ID
+
+1. To create a new app policy for Azure AD apps, go to **Microsoft Defender XDR > App governance > Policies > Azure AD > Create new policy**.
 
    ![Picture 1](../Media/AppGovernance5.png)
 
@@ -68,29 +97,29 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
    ![Picture 1](../Media/AppGovernance6-2.png)
 
 3. Provide the details and Click **Next**.
-- Policy name: Custom Policy <inject key="DeploymentID" enableCopy="false" /></inject>
-- Description: Custom Policy <inject key="DeploymentID" enableCopy="false" /></inject>
-- Severity: Low
+- Policy name: **Custom Policy**
+- Description: **Custom Policy**
+- Severity: **High**
 
-   ![Picture 1](../Media/new1.png)
+   ![Picture 1](../Media/app-govern-9.png)
 
 4. Under Set policy scope and conditions tab select **No, I'll customize the policy**.
 
    ![Picture 1](../Media/AppGovernance6-4.png)
 
-5. In Set policy scope and conditions tab, under Policy scope Select **All apps** and then select **Next**.
+5. In Set policy scope and conditions tab, under Policy scope Select **Specific apps > demoapp > Add** and then select **Next**.
 
-   ![Picture 1](../Media/new2.png)
+   ![Picture 1](../Media/app-govern-12.png)
 
 6. In Apply default conditions from the template? Select **No, I'll edit the conditions** and Select **Edit conditions**.
 
    ![Picture 1](../Media/AppGovernance6-8.png)
 
-7. Under Edit policy conditions. Select **Add condition** and select **Data usage**. A new tab will open of **Edit policy conditions** under Data usage provide **1** and select **Save** and then select **Next**.
+7. Under Edit policy conditions. Select **Add condition** and select **Non-Graph API permissions**. Under Non-Graph API permissions, keep Apps with permissions to non-Graph APIs to **Yes**. Select **Save** and then select **Next**.
 
-   ![Picture 1](../Media/AppGovernance6-9.png)
+   ![Picture 1](../Media/app-govern-10.png)
 
-   ![Picture 1](../Media/new3.png)
+   ![Picture 1](../Media/app-govern-11.png)
 
 8. Under Set policy action select the check-box next to **Disable app** and select **Next**.
 
@@ -103,6 +132,10 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
 10. Under review your policy select **Submit** and select **Done**.
 
     ![Picture 1](../Media/AppGovernance6-14.png)
+
+11. Upon redirection to the App governance page, navigate to **Policies > Azure AD** and scroll down. You will observe the existence of the Custom Policy, which is currently in an **Active** status.
+
+    ![Picture 1](../Media/app-govern-13.png)
 
 ## Review
 In this lab, you will complete the following tasks:
