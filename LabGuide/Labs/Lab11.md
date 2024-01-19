@@ -144,11 +144,15 @@ Select **Add admin consent for xxxx**
 
     ![Picture 1](../Media/app-govern-15.png)
 
-13. Upon redirection to the App governance page, navigate to **Policies > Azure AD** and scroll down. You will observe the existence of the Custom Policy, which is currently in an **Active** status.
+13. You will see the message, **Your new policy is ready**. Click **Done**
+
+    ![Picture 1](../Media/app-govern-19.png)
+
+14. Upon redirection to the App governance page, navigate to **Policies > Azure AD** and scroll down. You will observe the existence of the Custom Policy, which is currently in an **Active** status.
 
     ![Picture 1](../Media/app-govern-13.png)
 
-14. Go to **Microsoft Defender XDR portal > App governance**, select **Azure AD** tab. The **demoapp**, which was created in Task 2, its status will be changed into **Disabled by policy** state.
+15. Go to **Microsoft Defender XDR portal > App governance**, select **Azure AD** tab. The **demoapp**, which was created in Task 2, its status will be changed into **Disabled by policy** state.
 
     ![Picture 1](../Media/app-govern-17.png)
 
