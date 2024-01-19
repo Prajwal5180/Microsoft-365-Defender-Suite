@@ -133,6 +133,10 @@ Select **Add admin consent for xxxx**
 
     ![Picture 1](../Media/AppGovernance6-14.png)
 
+11. Upon redirection to the App governance page, navigate to **Policies > Azure AD** and scroll down. You will observe the existence of the Custom Policy, which is currently in an **Active** status.
+
+    ![Picture 1](../Media/app-govern-13.png)
+
 ## Review
 In this lab, you will complete the following tasks:
 - Configured alert notifications in Microsoft Defender for Cloud Apps 
