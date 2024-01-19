@@ -84,15 +84,15 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
       ![Picture 1](../Media/image_34.png)
 
-1. Click on the **Credentials_simulation** and navigate to the **Report** section.
+1. Click on the **Credentials_simulation** and navigate to the **Report** section. You'll observe that, at present, no user has been compromised.
 
       ![Picture 1](../Media/image_39.png)
 
-1. Select app launcher on the top of left hand and select outlook.
+1. Click the app launcher located at the top left. Choose the three dots and then select **Open in new tab** for **Outlook**. If prompted to log in to **Outlook**, use the ODL credentials for authentication which you can locate in the Environment details tab.
 
      ![Picture 1](../Media/lab06_outlook.png)
 
-1. Users will receive an email notification after some time with the title **Action Needed: Password Expired**. Open the email and click on **KEEP SAME PASSWORD** button.
+1. You will receive an email notification after some time with the title **Action Needed: Password Expired**. Open the email and click on **KEEP SAME PASSWORD** button.
  
       ![Picture 1](../Media/image_38.png)
 
@@ -108,9 +108,17 @@ In this we will sends fraudulent, malicious-like emails to their employees and a
 
      ![Picture 1](../Media/simulation-training-3.png)
 
-1. Navigate back to the **Report** to check user activity.
+1. Navigate back to the **Report** to check user activity. You'll observe that, at present, **100%** users has been compromised.
 
       ![Picture 1](../Media/image_40.png) 
+
+1. Under Credentials_Simulation page, select **Users** tab to see which user has been compromised. Select the user to get the complete details on the user.
+
+      ![Picture 1](../Media/simulation-training-4.png) 
+
+1. Under Credentials_Simulation page, select **Details** tab to see details on the simulation.
+
+      ![Picture 1](../Media/simulation-training-6.png) 
 
 ## Review
 In this lab, you will complete the following tasks:
