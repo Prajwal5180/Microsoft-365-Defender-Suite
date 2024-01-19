@@ -50,7 +50,7 @@ App Governance in Microsoft Defender for Cloud Apps empowers organizations to ma
    ![Picture 1](../Media/AppGovernance5a.png) 
    
    >**Note**: Once App governance is on. Sign in again to start using it.   
-   >**Note**: You'll need to wait up to 10 hours to see and use the product.
+   >**Note**: **You'll need to wait up to 10 hours to see and use the product.**
 
 3. After getting, the app governance provisioned You will see the app governance page. In the Privacy consent required tab. Select **Accept**.
 
@@ -85,57 +85,73 @@ Select **Add admin consent for xxxx**
 
    ![Picture 1](../Media/app-govern-8.png)
 
+   >**Note**: **You'll need to wait up to 24 hours to see and use the app created in app registartion in next task.**
 
 #### Task 3: Create OAuth app policies for Microsoft Entra ID
 
-1. To create a new app policy for Azure AD apps, go to **Microsoft Defender XDR > App governance > Policies > Azure AD > Create new policy**.
+1. Go to **Microsoft Defender XDR portal > App governance**, select **Overview** tab. You will be able to view number of applications set up in App Governance, as well as the number of incidents generated within the app governance.
+
+   ![Picture 1](../Media/app-govern-16.png)
+
+2. Go to **Microsoft Defender XDR portal > App governance**, select **Azure AD** tab. You will observe all the applications within app governance. The **demoapp**, which was created in Task 2, is visible. Currently, you can observe that it is in an **Enabled** state.
+
+   ![Picture 1](../Media/app-govern-14.png)
+
+3. To create a new app policy for Azure AD apps, go to **Microsoft Defender XDR > App governance > Policies > Azure AD > Create new policy**.
 
    ![Picture 1](../Media/AppGovernance5.png)
 
-2. To create a custom policy, select the **Custom** category. Under Template select **Custom Policy**. Select **Next**.
+4. To create a custom policy, select the **Custom** category. Under Template select **Custom Policy**. Select **Next**.
 
    ![Picture 1](../Media/AppGovernance6-2.png)
 
-3. Provide the details and Click **Next**.
+5. Provide the details and Click **Next**.
 - Policy name: **Custom Policy**
 - Description: **Custom Policy**
 - Severity: **High**
 
    ![Picture 1](../Media/app-govern-9.png)
 
-4. Under Set policy scope and conditions tab select **No, I'll customize the policy**.
+6. Under Set policy scope and conditions tab select **No, I'll customize the policy**.
 
    ![Picture 1](../Media/AppGovernance6-4.png)
 
-5. In Set policy scope and conditions tab, under Policy scope Select **Specific apps > demoapp > Add** and then select **Next**.
+7. In Set policy scope and conditions tab, under Policy scope Select **Specific apps > demoapp > Add** and then select **Next**.
 
    ![Picture 1](../Media/app-govern-12.png)
 
-6. In Apply default conditions from the template? Select **No, I'll edit the conditions** and Select **Edit conditions**.
+   >**Note**: **You'll need to wait up to 24 hours to see and use the app created in app registartion to become visible here. You can return in 2-3 hours to verify whether the app is visible at this location.**
+
+8. In Apply default conditions from the template? Select **No, I'll edit the conditions** and Select **Edit conditions**.
 
    ![Picture 1](../Media/AppGovernance6-8.png)
 
-7. Under Edit policy conditions. Select **Add condition** and select **Non-Graph API permissions**. Under Non-Graph API permissions, keep Apps with permissions to non-Graph APIs to **Yes**. Select **Save** and then select **Next**.
+9. Under Edit policy conditions. Select **Add condition** and select **Non-Graph API permissions**. Under Non-Graph API permissions, keep Apps with permissions to non-Graph APIs to **Yes**. Select **Save** and then select **Next**.
 
    ![Picture 1](../Media/app-govern-10.png)
 
    ![Picture 1](../Media/app-govern-11.png)
 
-8. Under Set policy action select the check-box next to **Disable app** and select **Next**.
+10. Under Set policy action select the check-box next to **Disable app** and select **Next**.
 
    ![Picture 1](../Media/AppGovernance6-12.png)
 
-9. Under Set policy status select **Active** and select **Next**.
+11. Under Set policy status select **Active** and select **Next**.
 
    ![Picture 1](../Media/AppGovernance6-13.png)
 
-10. Under review your policy select **Submit** and select **Done**.
+12. Under review your policy select **Submit** and select **Done**.
 
-    ![Picture 1](../Media/AppGovernance6-14.png)
+    ![Picture 1](../Media/app-govern-15.png)
 
-11. Upon redirection to the App governance page, navigate to **Policies > Azure AD** and scroll down. You will observe the existence of the Custom Policy, which is currently in an **Active** status.
+13. Upon redirection to the App governance page, navigate to **Policies > Azure AD** and scroll down. You will observe the existence of the Custom Policy, which is currently in an **Active** status.
 
     ![Picture 1](../Media/app-govern-13.png)
+
+14. Go to **Microsoft Defender XDR portal > App governance**, select **Azure AD** tab. The **demoapp**, which was created in Task 2, its status will be changed into **Disabled by policy** state.
+
+   >**Note**: **You'll need to wait up to 24 hours to observe the outcome of the applied policy in app governance, resulting in a change in the status of the demoapp.**
+
 
 ## Review
 In this lab, you will complete the following tasks:
